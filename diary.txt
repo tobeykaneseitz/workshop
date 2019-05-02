@@ -4,3 +4,5 @@ this is a diary of the git workshop
 time is 2:47
 
 9pm - wild night, phew
+
+last comment was stupid
